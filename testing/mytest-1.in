@@ -1,0 +1,11 @@
+# Have the program play against human.
+#* java -ea loa.Main
+seed 12347
+auto white
+dump
+b1-b3
+dump
+c1-c3
+dump
+d1-d3
+dump

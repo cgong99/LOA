@@ -1,0 +1,4 @@
+# Test the GUI.
+#*java -ea loa.Main --display
+auto white
+auto black

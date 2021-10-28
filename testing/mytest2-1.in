@@ -1,0 +1,6 @@
+#* java -ea loa.Main
+seed 12347
+dump
+f1-h3
+undo
+dump
